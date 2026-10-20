@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="1754" viewBox="0 0 1240 1754">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#4F46E5"/><stop offset="0.55" stop-color="#7C3AED"/><stop offset="1" stop-color="#312E81"/>
+</linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#F472B6"/><stop offset="1" stop-color="#FBBF24"/>
+</linearGradient>
+</defs>
+<rect width="1240" height="1754" fill="url(#bg)"/>
+<circle cx="1120" cy="140" r="180" fill="#FFFFFF" opacity="0.08"/>
+<circle cx="80" cy="900" r="220" fill="#FFFFFF" opacity="0.06"/>
+<rect x="90" y="90" width="300" height="52" rx="26" fill="url(#accent)"/>
+<text x="120" y="126" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1E1B4B">HANDS-ON BOOTCAMP</text>
+<text x="88" y="270" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="900" fill="#FFFFFF">DIGITAL</text>
+<text x="88" y="380" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="900" fill="#FFFFFF">MARKETING</text>
+<text x="88" y="490" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="900" fill="#FBBF24">WORKSHOP</text>
+<text x="90" y="560" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#E0E7FF">2-Day Hands-On Bootcamp</text>
+<text x="90" y="610" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#C7D2FE">Learn by doing — leave with a real campaign,</text>
+<text x="90" y="648" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#C7D2FE">a content calendar and a portfolio piece.</text>
+<rect x="90" y="720" width="1060" height="560" rx="20" fill="#FFFFFF"/>
+<text x="140" y="790" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#7C3AED" letter-spacing="3">WHAT IS INSIDE</text>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="140" y="830" width="46" height="46" rx="10" fill="#EEF2FF"/><text x="152" y="865" font-size="26" font-weight="900" fill="#4F46E5">✓</text>
+<text x="210" y="865" font-size="32" font-weight="700" fill="#1E293B">SEO Fundamentals</text>
+<text x="210" y="900" font-size="22" fill="#64748B">Keywords, on-page basics and search intent</text>
+<rect x="140" y="940" width="46" height="46" rx="10" fill="#EEF2FF"/><text x="152" y="975" font-size="26" font-weight="900" fill="#4F46E5">✓</text>
+<text x="210" y="975" font-size="32" font-weight="700" fill="#1E293B">Social Media Ads</text>
+<text x="210" y="1010" font-size="22" fill="#64748B">Targeting, budgets and ad copy that converts</text>
+<rect x="140" y="1050" width="46" height="46" rx="10" fill="#EEF2FF"/><text x="152" y="1085" font-size="26" font-weight="900" fill="#4F46E5">✓</text>
+<text x="210" y="1085" font-size="32" font-weight="700" fill="#1E293B">Content Design</text>
+<text x="210" y="1120" font-size="22" fill="#64748B">Design posts, reels and landing pages in Canva</text>
+<rect x="140" y="1160" width="46" height="46" rx="10" fill="#EEF2FF"/><text x="152" y="1195" font-size="26" font-weight="900" fill="#4F46E5">✓</text>
+<text x="210" y="1195" font-size="32" font-weight="700" fill="#1E293B">Analytics</text>
+<text x="210" y="1230" font-size="22" fill="#64748B">Read dashboards and prove what worked</text>
+</g>
+<rect x="90" y="1330" width="1060" height="230" rx="20" fill="#1E1B4B"/>
+<text x="140" y="1395" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#FBBF24" letter-spacing="2">JOIN US</text>
+<text x="140" y="1445" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#FFFFFF">Saturday – Sunday  •  9 AM – 4 PM</text>
+<text x="140" y="1495" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#C7D2FE">Surrey City Centre  •  Limited seats  •  Certificate included</text>
+<text x="90" y="1645" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">Register at the front desk or scan in class</text>
+<text x="90" y="1690" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#A5B4FC">Bring a laptop  •  All skill levels welcome  •  Designed by Anmol Manni</text>
+</svg>
