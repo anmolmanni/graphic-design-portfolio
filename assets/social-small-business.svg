@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#F2B705"/>
+<rect x="0" y="0" width="1080" height="1080" fill="none"/>
+<circle cx="920" cy="130" r="150" fill="#1F2937"/>
+<circle cx="920" cy="130" r="95" fill="#F2B705"/>
+<rect x="70" y="830" width="940" height="160" fill="#1F2937"/>
+<path d="M70 120 L240 120 L70 290 Z" fill="#1F2937" opacity="0.15"/>
+<text x="72" y="110" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#1F2937" letter-spacing="5">FOR SMALL BUSINESS</text>
+<text x="68" y="250" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="900" fill="#1F2937">YOUR</text>
+<text x="68" y="350" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="900" fill="#1F2937">BUSINESS</text>
+<text x="68" y="450" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="900" fill="#FFFFFF">DESERVES</text>
+<text x="68" y="550" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="900" fill="#1F2937">TO BE SEEN</text>
+<text x="68" y="650" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="900" fill="#1F2937">ONLINE</text>
+<rect x="72" y="690" width="160" height="10" fill="#1F2937"/>
+<text x="72" y="765" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#374151">A website and a .CA domain help customers</text>
+<text x="72" y="800" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#374151">find you, trust you and buy from you.</text>
+<text x="105" y="895" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" fill="#F2B705">GET ONLINE. GET FOUND. GROW LOCAL.</text>
+<text x="105" y="940" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#FFFFFF">@anmol.designs</text>
+</svg>
