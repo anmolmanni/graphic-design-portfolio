@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1754" height="1240" viewBox="0 0 1754 1240">
+<rect width="1754" height="1240" fill="#FFFBF2"/>
+<rect width="1754" height="130" fill="#3B2314"/>
+<text x="70" y="82" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="900" fill="#FFFFFF">MAPLE &amp; CO. — BRAND IDENTITY BOARD</text>
+<text x="1290" y="82" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#D6C7B2">FICTIONAL COFFEE BRAND</text>
+<!-- Logo -->
+<rect x="70" y="170" width="520" height="420" rx="16" fill="#FFFFFF" stroke="#E7DDD0" stroke-width="2"/>
+<text x="100" y="215" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#92400E" letter-spacing="3">LOGO MARK</text>
+<path d="M330 260 L355 315 L410 300 L375 350 L420 355 L370 395 L385 450 L330 420 L275 450 L290 395 L240 355 L285 350 L250 300 L305 315 Z" fill="#B45309"/>
+<rect x="322" y="415" width="16" height="45" fill="#78350F"/>
+<text x="330" y="535" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="900" fill="#3B2314">MAPLE &amp; CO.</text>
+<text x="330" y="565" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#78716C" letter-spacing="4">SMALL-BATCH COFFEE</text>
+<!-- Palette -->
+<rect x="630" y="170" width="520" height="420" rx="16" fill="#FFFFFF" stroke="#E7DDD0" stroke-width="2"/>
+<text x="660" y="215" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#92400E" letter-spacing="3">COLOUR PALETTE</text>
+<g font-family="Arial, Helvetica, sans-serif" font-size="18">
+<rect x="660" y="245" width="130" height="130" rx="10" fill="#3B2314"/><text x="660" y="405" font-weight="700" fill="#1C1917">Espresso</text><text x="660" y="430" fill="#78716C">#3B2314</text>
+<rect x="820" y="245" width="130" height="130" rx="10" fill="#B45309"/><text x="820" y="405" font-weight="700" fill="#1C1917">Maple Amber</text><text x="820" y="430" fill="#78716C">#B45309</text>
+<rect x="980" y="245" width="130" height="130" rx="10" fill="#F59E0B"/><text x="980" y="405" font-weight="700" fill="#1C1917">Golden Roast</text><text x="980" y="430" fill="#78716C">#F59E0B</text>
+<rect x="660" y="460" width="130" height="90" rx="10" fill="#FEF3C7"/><text x="660" y="575" font-weight="700" fill="#1C1917">Cream #FEF3C7</text>
+<rect x="820" y="460" width="130" height="90" rx="10" fill="#365314"/><text x="820" y="575" font-weight="700" fill="#1C1917">Forest #365314</text>
+<rect x="980" y="460" width="130" height="90" rx="10" fill="#FFFFFF" stroke="#E7DDD0"/><text x="980" y="575" font-weight="700" fill="#1C1917">White #FFFFFF</text>
+</g>
+<!-- Typography -->
+<rect x="1190" y="170" width="494" height="420" rx="16" fill="#FFFFFF" stroke="#E7DDD0" stroke-width="2"/>
+<text x="1220" y="215" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#92400E" letter-spacing="3">TYPOGRAPHY</text>
+<text x="1220" y="340" font-family="Arial, Helvetica, sans-serif" font-size="110" font-weight="900" fill="#3B2314">Aa</text>
+<text x="1385" y="285" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="900" fill="#1C1917">Arial Black / Bold</text>
+<text x="1385" y="320" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#78716C">Headlines — Bold, uppercase</text>
+<text x="1220" y="410" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="900" fill="#1C1917">BREWED WITH CARE</text>
+<text x="1220" y="455" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#44403C">Body text is set in Arial Regular for</text>
+<text x="1220" y="485" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#44403C">clean, readable menus and packaging.</text>
+<text x="1220" y="535" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#78716C">ABCDEFGHIJKLM  •  0123456789</text>
+<!-- Applications -->
+<rect x="70" y="630" width="790" height="540" rx="16" fill="#3B2314"/>
+<text x="100" y="680" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#FBBF24" letter-spacing="3">APPLICATION — COFFEE CUP</text>
+<path d="M300 760 L620 760 L580 1080 L340 1080 Z" fill="#FFFFFF"/>
+<rect x="285" y="730" width="350" height="35" rx="8" fill="#E7DDD0"/>
+<path d="M460 820 L475 865 L515 855 L485 895 L520 900 L480 930 L490 975 L460 955 L430 975 L440 930 L400 900 L435 895 L405 855 L445 865 Z" fill="#B45309"/>
+<text x="460" y="1045" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="900" fill="#3B2314">MAPLE &amp; CO.</text>
+<rect x="900" y="630" width="784" height="540" rx="16" fill="#FFFFFF" stroke="#E7DDD0" stroke-width="2"/>
+<text x="930" y="680" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#92400E" letter-spacing="3">APPLICATION — BUSINESS CARD</text>
+<rect x="970" y="730" width="640" height="360" rx="12" fill="#FFFBF2" stroke="#D6C7B2" stroke-width="2"/>
+<rect x="970" y="730" width="640" height="14" fill="#B45309"/>
+<path d="M1060 800 L1072 830 L1102 822 L1080 850 L1110 853 L1082 875 L1090 905 L1060 890 L1030 905 L1038 875 L1010 853 L1040 850 L1018 822 L1048 830 Z" fill="#B45309"/>
+<text x="1140" y="845" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900" fill="#3B2314">MAPLE &amp; CO.</text>
+<text x="1140" y="880" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#78716C">Small-Batch Coffee Roasters</text>
+<text x="1005" y="1020" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#44403C">hello@mapleandco.example  •  Vancouver, BC</text>
+<text x="70" y="1215" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#78716C">Brand board concept  •  Designed by Anmol Manni</text>
+</svg>
