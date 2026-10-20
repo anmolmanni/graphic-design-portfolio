@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="1754" viewBox="0 0 1240 1754">
+<rect width="1240" height="1754" fill="#0E3B36"/>
+<path d="M1240 0 L1240 520 L860 0 Z" fill="#FFC94D"/>
+<path d="M0 1754 L420 1754 L0 1330 Z" fill="#14665C"/>
+<circle cx="160" cy="210" r="70" fill="none" stroke="#FFC94D" stroke-width="6"/>
+<circle cx="160" cy="210" r="40" fill="#FFC94D"/>
+<text x="90" y="390" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#FFC94D" letter-spacing="5">CAREER CAMPAIGN 2026</text>
+<text x="88" y="510" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="900" fill="#FFFFFF">FIND A</text>
+<text x="88" y="625" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="900" fill="#FFFFFF">CAREER</text>
+<text x="88" y="740" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="900" fill="#FFC94D">THAT FITS</text>
+<text x="88" y="855" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="900" fill="#FFFFFF">YOU</text>
+<text x="90" y="925" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#CDE8E2">Stop guessing. Start with your strengths,</text>
+<text x="90" y="962" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#CDE8E2">interests and the skills employers want.</text>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="90" y="1040" width="1060" height="150" rx="16" fill="#FFFFFF"/>
+<circle cx="175" cy="1115" r="42" fill="#0E3B36"/><text x="163" y="1132" font-size="36" font-weight="900" fill="#FFC94D">1</text>
+<text x="245" y="1105" font-size="32" font-weight="900" fill="#0E3B36">TAKE THE QUIZ</text>
+<text x="245" y="1148" font-size="24" fill="#475569">A 10-minute career quiz matched to you</text>
+<rect x="90" y="1220" width="1060" height="150" rx="16" fill="#FFFFFF"/>
+<circle cx="175" cy="1295" r="42" fill="#0E3B36"/><text x="163" y="1312" font-size="36" font-weight="900" fill="#FFC94D">2</text>
+<text x="245" y="1285" font-size="32" font-weight="900" fill="#0E3B36">TALK TO A COUNSELLOR</text>
+<text x="245" y="1328" font-size="24" fill="#475569">Real advice on courses, resumes and interviews</text>
+<rect x="90" y="1400" width="1060" height="150" rx="16" fill="#FFC94D"/>
+<circle cx="175" cy="1475" r="42" fill="#0E3B36"/><text x="163" y="1492" font-size="36" font-weight="900" fill="#FFFFFF">3</text>
+<text x="245" y="1465" font-size="32" font-weight="900" fill="#0E3B36">GET HIRED</text>
+<text x="245" y="1508" font-size="24" fill="#334155">Connect with employers ready to meet you</text>
+</g>
+<text x="90" y="1645" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">Start today — your future self will thank you</text>
+<text x="90" y="1690" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#8FC1B8">Careerguide-style campaign concept  •  Designed by Anmol Manni</text>
+</svg>
