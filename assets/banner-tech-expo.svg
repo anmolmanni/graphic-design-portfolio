@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="900" viewBox="0 0 2400 900">
+<rect width="2400" height="900" fill="#050B1A"/>
+<rect x="0" y="860" width="2400" height="40" fill="#06B6D4"/>
+<g fill="#06B6D4" opacity="0.5">
+<circle cx="1850" cy="150" r="6"/><circle cx="1950" cy="150" r="6"/><circle cx="2050" cy="250" r="6"/><circle cx="1950" cy="350" r="6"/><circle cx="2150" cy="150" r="6"/><circle cx="2250" cy="300" r="6"/><circle cx="1800" cy="400" r="6"/><circle cx="2100" cy="500" r="6"/><circle cx="2300" cy="600" r="6"/>
+</g>
+<g stroke="#164E63" stroke-width="3" fill="none">
+<path d="M1850 150 L1950 150 L2050 250 L1950 350"/><path d="M1950 150 L2150 150"/><path d="M2050 250 L2250 300"/><path d="M1800 400 L1950 350"/><path d="M2100 500 L2050 250"/>
+</g>
+<circle cx="150" cy="140" r="52" fill="none" stroke="#22D3EE" stroke-width="6"/>
+<circle cx="150" cy="140" r="22" fill="#22D3EE"/>
+<text x="230" y="130" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#22D3EE" letter-spacing="4">CANADA TECH EXPO</text>
+<text x="230" y="168" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#94A3B8" letter-spacing="3">INNOVATION  •  AI  •  CYBERSECURITY  •  STARTUPS</text>
+<text x="145" y="360" font-family="Arial, Helvetica, sans-serif" font-size="110" font-weight="900" fill="#FFFFFF">CANADA TECH</text>
+<text x="145" y="480" font-family="Arial, Helvetica, sans-serif" font-size="110" font-weight="900" fill="#FFFFFF">AND INNOVATION</text>
+<text x="145" y="600" font-family="Arial, Helvetica, sans-serif" font-size="110" font-weight="900" fill="#22D3EE">EXPO 2026</text>
+<rect x="150" y="650" width="620" height="90" rx="45" fill="#0EA5E9"/>
+<text x="195" y="708" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#FFFFFF">Toronto  •  Dec 3–5, 2026</text>
+<text x="830" y="708" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#CBD5E1">200+ exhibitors  •  Keynotes  •  Startup pitch stage</text>
+<text x="150" y="810" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#64748B">Trade-show banner concept  •  Designed by Anmol Manni</text>
+</svg>
