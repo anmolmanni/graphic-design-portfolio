@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="1754" viewBox="0 0 1240 1754">
+<rect width="1240" height="1754" fill="#0B2341"/>
+<rect x="0" y="0" width="1240" height="18" fill="#D7263D"/>
+<circle cx="1080" cy="180" r="210" fill="#122F57"/>
+<circle cx="1080" cy="180" r="150" fill="none" stroke="#D7263D" stroke-width="3" opacity="0.7"/>
+<circle cx="90" cy="1520" r="120" fill="#122F57"/>
+<path d="M0 620 L1240 520 L1240 560 L0 660 Z" fill="#D7263D" opacity="0.9"/>
+<text x="90" y="120" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" letter-spacing="6">NORTHSTAR EDUCATION</text>
+<text x="90" y="152" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#8FB0D8" letter-spacing="3">PRESENTS</text>
+<text x="88" y="300" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="900" fill="#FFFFFF">STUDY IN</text>
+<text x="84" y="430" font-family="Arial, Helvetica, sans-serif" font-size="148" font-weight="900" fill="#FFFFFF">CANADA</text>
+<rect x="90" y="470" width="180" height="10" fill="#D7263D"/>
+<text x="90" y="545" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#FFD166">Education Fair 2026</text>
+<text x="90" y="600" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#D6E4F5">Meet admissions teams, compare programs</text>
+<text x="90" y="635" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#D6E4F5">and plan your next step — all in one day.</text>
+<rect x="90" y="710" width="1060" height="340" rx="18" fill="#FFFFFF"/>
+<text x="140" y="780" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#D7263D" letter-spacing="3">WHEN AND WHERE</text>
+<text x="140" y="845" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="900" fill="#0B2341">Vancouver Convention Centre</text>
+<text x="140" y="905" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#0B2341">Saturday, Nov 14, 2026</text>
+<text x="140" y="960" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#334155">10 AM – 4 PM  •  Free Entry</text>
+<rect x="140" y="985" width="120" height="6" fill="#D7263D"/>
+<text x="90" y="1140" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" letter-spacing="2">WHAT YOU GET</text>
+<g font-family="Arial, Helvetica, sans-serif" font-size="32" fill="#FFFFFF">
+<circle cx="115" cy="1215" r="14" fill="#D7263D"/><text x="155" y="1227">Meet 40+ universities and colleges</text>
+<circle cx="115" cy="1295" r="14" fill="#D7263D"/><text x="155" y="1307">Visa guidance from licensed experts</text>
+<circle cx="115" cy="1375" r="14" fill="#D7263D"/><text x="155" y="1387">Scholarships and funding information</text>
+<circle cx="115" cy="1455" r="14" fill="#D7263D"/><text x="155" y="1467">One-on-one program counselling</text>
+</g>
+<rect x="0" y="1580" width="1240" height="174" fill="#D7263D"/>
+<text x="90" y="1655" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#FFFFFF">Register free at northstareducation.ca</text>
+<text x="90" y="1700" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#FFE1E6">NorthStar Education  •  Vancouver, BC  •  Bring your transcripts</text>
+</svg>
